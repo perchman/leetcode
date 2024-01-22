@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/contains-duplicate/description/ */
+
 const containsDuplicate = function(nums) {
     const set = new Set();
 

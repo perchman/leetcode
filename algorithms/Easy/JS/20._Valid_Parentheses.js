@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/valid-parentheses/description/ */
+
 const isValid = function(s) {
     const brackets = [];
     

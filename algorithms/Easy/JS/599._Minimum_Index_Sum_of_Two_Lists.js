@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/ */
+
 const findRestaurant = function(list1, list2) {
     const map = new Map();
 

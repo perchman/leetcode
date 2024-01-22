@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/ */
+
 const strStr = function(haystack, needle) {
     let index = 0;
 

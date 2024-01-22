@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/merge-strings-alternately/description/ */
+
 const mergeAlternately = function(word1, word2) {
     let result = '';
 

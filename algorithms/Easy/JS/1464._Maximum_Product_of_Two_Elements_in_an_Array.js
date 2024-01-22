@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/ */
+
 const maxProduct = function(nums) {
     let i = -1;
     let j = -1;

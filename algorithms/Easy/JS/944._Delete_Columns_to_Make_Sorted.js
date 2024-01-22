@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/delete-columns-to-make-sorted/description/ */
+
 const minDeletionSize = function(strs) {
     let count = 0;
 

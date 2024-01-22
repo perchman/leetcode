@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/ */
+
 const kidsWithCandies = function(candies, extraCandies) {
     const result = [];
 

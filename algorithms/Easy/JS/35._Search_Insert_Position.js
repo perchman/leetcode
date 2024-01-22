@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/search-insert-position/description/ */
+
 const searchInsert = function(nums, target) {
     let i = 0,
         j = nums.length - 1;

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/implement-queue-using-stacks/description/ */
+
 const MyQueue = function() {
     this.stack1 = [];
     this.stack2 = [];

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/determine-if-string-halves-are-alike/description/ */
+
 const vowels = new Set (['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']);
 
 const halvesAreAlike = function(s) {

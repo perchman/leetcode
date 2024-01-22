@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/ */
+
 const chessboard = [
     ['a1', 'black'], ['b1', 'white'], ['c1', 'black'], ['d1', 'white'],
     ['e1', 'black'], ['f1', 'white'], ['g1', 'black'], ['h1', 'white'],

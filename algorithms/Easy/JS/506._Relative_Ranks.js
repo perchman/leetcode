@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/relative-ranks/description/ */
+
 const findRelativeRanks = function(score) {
     const sorted = score.slice().sort((a, b) => b - a);
 

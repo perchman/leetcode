@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/minimum-time-visiting-all-points/description/ */
+
 const minTimeToVisitAllPoints = function(points) {
     let count = 0;
 

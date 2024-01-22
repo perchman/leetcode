@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/ */
+
 const canMakeArithmeticProgression = function(arr) {
     arr.sort((a, b) => a - b);
 

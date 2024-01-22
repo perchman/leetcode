@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/ */
+
 const alphabet = [
     ['a', 0],
     ['b', 1],

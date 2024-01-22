@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/majority-element/description/ */
+
 const majorityElement = function(nums) {
     const count = new Map();
     let majorityElem = 0;

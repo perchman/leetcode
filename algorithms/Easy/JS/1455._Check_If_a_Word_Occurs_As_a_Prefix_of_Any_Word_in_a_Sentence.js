@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/ */
+
 const isPrefixOfWord = function(sentence, searchWord) {
     const words = sentence.split(' ');
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-common-characters/description/ */
+
 const commonChars = function(words) {
     let chars = [...words[0]];
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/is-subsequence/description/ */
+
 const isSubsequence = function(s, t) {
     if (s.length > t.length) return false;
 

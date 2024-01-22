@@ -1,5 +1,4 @@
-// https://leetcode.com/problems/last-stone-weight/
-
+/** https://leetcode.com/problems/last-stone-weight/description/ */
 
 const lastStoneWeight = function(stones) {
     const queue = new MaxPriorityQueue();

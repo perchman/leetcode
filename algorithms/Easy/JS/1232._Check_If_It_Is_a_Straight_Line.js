@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/check-if-it-is-a-straight-line/description/ */
+
 const checkStraightLine = function(coordinates) {
     let a = -(coordinates[1][1] - coordinates[0][1]);
     let b = coordinates[1][0] - coordinates[0][0];

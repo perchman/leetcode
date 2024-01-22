@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/design-hashset/description/ */
+
 const MyHashSet = function() {
     this.p = 997;
     this.table = new Array(this.p).fill(null).map(() => []);

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/number-of-lines-to-write-string/description/ */
+
 const numberOfLines = function(widths, s) {
     let count = 1;
     let currentWidth = 0;

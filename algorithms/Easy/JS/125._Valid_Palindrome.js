@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/valid-palindrome/description/ */
+
 const isPalindrome = function(s) {
     const upgradedS = s.toLowerCase().replace(/[^a-zA-Z0-9]/g, '');
 

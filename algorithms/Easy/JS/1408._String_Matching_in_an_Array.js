@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/string-matching-in-an-array/description/ */
+
 const stringMatching = function(words) {
     const result = [];
 

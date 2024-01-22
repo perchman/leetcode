@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/count-binary-substrings/description/ */
+
 const countBinarySubstrings = function(s) {
     let res = 0,
         prev = 0,

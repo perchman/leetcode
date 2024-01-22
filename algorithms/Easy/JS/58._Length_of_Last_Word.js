@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/length-of-last-word/description/ */
+
 const lengthOfLastWord = function(s) {
     let count = 0;
 

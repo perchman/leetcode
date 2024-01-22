@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/ */
+
 const countGoodSubstrings = function(s) {
     let count = 0;
 

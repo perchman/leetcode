@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-the-town-judge/description/ */
+
 const findJudge = function(n, trust) {
     const arr1 = new Array(n + 1).fill(0),
         arr2 = new Array(n + 1).fill(0);

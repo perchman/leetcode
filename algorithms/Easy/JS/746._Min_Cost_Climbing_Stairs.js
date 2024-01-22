@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/min-cost-climbing-stairs/description/ */
+
 const minCostClimbingStairs = function(cost) {
     const dp = new Array(cost.length + 1).fill(0);
 

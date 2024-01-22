@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/sqrtx/description/ */
+
 const mySqrt = function(x) {
     if (1 >= x) return x;
 

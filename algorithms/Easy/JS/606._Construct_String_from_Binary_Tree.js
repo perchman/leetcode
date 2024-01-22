@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/construct-string-from-binary-tree/description/ */
+
 const tree2str = function(root) {
     if (!root) {
         return '';

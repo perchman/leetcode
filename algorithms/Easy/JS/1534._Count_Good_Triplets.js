@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/count-good-triplets/description/ */
+
 const countGoodTriplets = function(arr, a, b, c) {
     let count = 0;
 
@@ -8,7 +10,7 @@ const countGoodTriplets = function(arr, a, b, c) {
                     Math.abs(arr[i] - arr[j]) <= a,
                     Math.abs(arr[j] - arr[k]) <= b,
                     Math.abs(arr[i] - arr[k]) <= c,
-                ];\
+                ];
 
                 if (conditions.indexOf(false) === -1) count++;
             }

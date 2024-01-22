@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/ */
+
 const deleteDuplicates = function(head) {
     let current = head;
 

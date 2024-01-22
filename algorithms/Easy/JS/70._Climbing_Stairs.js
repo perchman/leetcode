@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/climbing-stairs/description/ */
+
 const climbStairs = function(n) {
     if (n === 1) return 1;
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/distribute-candies/description/ */
+
 const distributeCandies = function(candyType) {
     const uniqueCandies = new Set();
 

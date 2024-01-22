@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/minimum-depth-of-binary-tree/description/ */
+
 const minDepth = function(root) {
     if (!root) return 0;
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/goat-latin/description/ */
+
 const toGoatLatin = function(sentence) {
     const words = sentence.split(' ');
     let a = 'a';

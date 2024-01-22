@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/linked-list-cycle/description/ */
+
 const hasCycle = function(head) {
     if (!head || !head.next) {
         return false;

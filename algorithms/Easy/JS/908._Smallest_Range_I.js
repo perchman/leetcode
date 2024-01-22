@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/smallest-range-i/description/ */
+
 const smallestRangeI = function(nums, k) {
     nums.sort((a, b) => a - b);
 

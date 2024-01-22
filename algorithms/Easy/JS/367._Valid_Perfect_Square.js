@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/valid-perfect-square/description/ */
+
 const isPerfectSquare = function(num) {
     if (num < 2) return true;
 

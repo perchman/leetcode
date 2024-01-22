@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/binary-search/description/ */
+
 const search = function(nums, target) {
     let l = 0,
         r = nums.length - 1;

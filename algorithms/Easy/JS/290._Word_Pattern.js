@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/word-pattern/description/ */
+
 const wordPattern = function(pattern, s) {
     const arr = s.split(' ');
     const map1 = new Map();

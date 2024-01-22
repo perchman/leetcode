@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/destination-city/description/ */
+
 const destCity = function(paths) {
     const cities = new Set();
 

@@ -1,26 +1,4 @@
-// https://leetcode.com/problems/kth-largest-element-in-a-stream/
-
-class KthLargest {
-    constructor(k, nums) {
-        this.k = k;
-        this.minHeap = new MinHeap();
-
-        for (const num of nums) {
-            this.add(num);
-        }
-    }
-
-    add(val) {
-        if (this.k > this.minHeap.size()) {
-            this.minHeap.push(val);
-        } else if (val > this.minHeap.peek()) {
-            this.minHeap.pop();
-            this.minHeap.push(val);
-        }
-
-        return this.minHeap.peek();
-    }
-}
+/** https://leetcode.com/problems/kth-largest-element-in-a-stream/description/ */
 
 class MinHeap {
     constructor() {
@@ -114,5 +92,27 @@ class MinHeap {
 
     size() {
         return this.heap.length;
+    }
+}
+
+class KthLargest {
+    constructor(k, nums) {
+        this.k = k;
+        this.minHeap = new MinHeap();
+
+        for (const num of nums) {
+            this.add(num);
+        }
+    }
+
+    add(val) {
+        if (this.k > this.minHeap.size()) {
+            this.minHeap.push(val);
+        } else if (val > this.minHeap.peek()) {
+            this.minHeap.pop();
+            this.minHeap.push(val);
+        }
+
+        return this.minHeap.peek();
     }
 }

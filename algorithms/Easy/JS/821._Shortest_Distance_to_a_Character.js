@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/shortest-distance-to-a-character/description/ */
+
 const shortestToChar = function(s, c) {
     const result = [];
 

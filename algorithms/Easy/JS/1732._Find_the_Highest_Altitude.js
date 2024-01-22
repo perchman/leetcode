@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-the-highest-altitude/description/ */
+
 const largestAltitude = function(gain) {
     let prevPoint = 0;
     let maxAltitude = 0;

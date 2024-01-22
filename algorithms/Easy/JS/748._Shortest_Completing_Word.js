@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/shortest-completing-word/description/ */
+
 const shortestCompletingWord = function(licensePlate, words) {
     const letters = new Map();
 
