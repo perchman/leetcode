@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-the-distinct-difference-array/description/ */
+
 const distinctDifferenceArray = function(nums) {
     const set = new Set();
     const res = [];

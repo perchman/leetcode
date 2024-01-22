@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/take-gifts-from-the-richest-pile/
+/** https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/ */
 
 const pickGifts = function(gifts, k) {
     const queue = new MaxPriorityQueue();

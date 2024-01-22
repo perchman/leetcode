@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/ */
+
 const isPalindromic = function(str) {
     let i = 0;
     let j = str.length - 1;

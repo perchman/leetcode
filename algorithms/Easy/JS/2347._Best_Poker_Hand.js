@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/best-poker-hand/description/ */
+
 const bestHand = function(ranks, suits) {
     if (new Set(suits).size === 1) {
         return 'Flush';

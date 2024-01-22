@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/merge-similar-items/description/ */
+
 const mergeSimilarItems = function(items1, items2) {
     const obj = {};
 

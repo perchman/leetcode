@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/split-strings-by-separator/description/ */
+
 const splitWordsBySeparator = function(words, separator) {
     let result = [];
     let string = '';

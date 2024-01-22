@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/first-letter-to-appear-twice/description/ */
+
 const repeatedCharacter = function(s) {
     const count = new Map();
 

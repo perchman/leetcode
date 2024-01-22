@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/evaluate-boolean-binary-tree/description/ */
+
 const evaluateTree = function(root) {
     if (root.val === 0 || root.val === 1) {
         return root.val === 1;

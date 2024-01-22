@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/ */
+
 const findGCD = function(nums) {
     let min = Math.min(...nums),
         max = Math.max(...nums);

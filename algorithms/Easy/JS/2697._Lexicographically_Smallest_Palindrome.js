@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/lexicographically-smallest-palindrome/description/ */
+
 const makeSmallestPalindrome = function(s) {
     const result = new Array(s.length);
 

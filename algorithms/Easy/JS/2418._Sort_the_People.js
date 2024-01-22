@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/sort-the-people/description/ */
+
 const sortPeople = function(names, heights) {
     let arr = [];
 

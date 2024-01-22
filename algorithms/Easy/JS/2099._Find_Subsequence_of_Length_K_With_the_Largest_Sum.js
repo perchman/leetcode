@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
+/** https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/ */
 
 const maxSubsequence = function(nums, k) {
     const queue = new MinPriorityQueue({

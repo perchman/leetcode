@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/ */
+
 const areOccurrencesEqual = function(s) {
     const count = new Map ();
 

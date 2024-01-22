@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-the-difference-of-two-arrays/description/ */
+
 const findDifference = function(nums1, nums2) {
     const nums1Set = new Set(nums1);
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/number-of-distinct-averages/description/ */
+
 const distinctAverages = function(nums) {
     nums.sort((a, b) => a - b);
 

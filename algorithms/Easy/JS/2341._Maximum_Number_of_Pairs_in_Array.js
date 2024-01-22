@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/ */
+
 const numberOfPairs = function(nums) {
     const set = new Set();
     let count = 0;

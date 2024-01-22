@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/kth-distinct-string-in-an-array/description/ */
+
 const kthDistinct = function(arr, k) {
     const strs = new Map();
 

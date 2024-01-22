@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/minimum-common-value/description/ */
+
 const getCommon = function(nums1, nums2) {
     const set = new Set(nums1);
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/number-of-arithmetic-triplets/description/ */
+
 const arithmeticTriplets = function(nums, diff) {
     const set = new Set();
     let count = 0;

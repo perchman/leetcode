@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/number-of-senior-citizens/description/ */
+
 const countSeniors = function(details) {
     let count = 0;
 

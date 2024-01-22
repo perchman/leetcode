@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/ */
+
 const differenceOfSum = function(nums) {
     let elemSum = 0,
         digitSum = 0;

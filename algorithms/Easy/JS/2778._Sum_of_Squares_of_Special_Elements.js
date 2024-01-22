@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/sum-of-squares-of-special-elements/description/ */
+
 const sumOfSquares = function(nums) {
     let result = 0;
 

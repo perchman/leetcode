@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/ */
+
 const minLength = function(s) {
     const arr = [];
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/description/ */
+
 const minTimeToType = function(word) {
     const charCodeA = 'a'.charCodeAt(0);
     let seconds = 0;

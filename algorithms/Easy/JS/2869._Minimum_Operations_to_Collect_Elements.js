@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/minimum-operations-to-collect-elements/description/ */
+
 const minOperations = function(nums, k) {
     const map = new Map();
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/ */
+
 const maximumNumberOfStringPairs = function(words) {
     const reversedMap = new Map();
     let count = 0;

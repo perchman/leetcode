@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/ */
+
 const removeTrailingZeros = function(num) {
     if (num[num.length - 1] !== '0') {
         return num;

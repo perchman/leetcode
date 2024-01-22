@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/count-tested-devices-after-test-operations/description/ */
+
 const countTestedDevices = function(batteryPercentages) {
     let count = 0;
 

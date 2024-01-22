@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-subarrays-with-equal-sum/description/ */
+
 const findSubarrays = function(nums) {
     const sum = new Set();
 

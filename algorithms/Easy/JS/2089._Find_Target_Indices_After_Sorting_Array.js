@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/find-target-indices-after-sorting-array/description/ */
+
 const targetIndices = function(nums, target) {
     nums.sort((a, b) => a - b);
 

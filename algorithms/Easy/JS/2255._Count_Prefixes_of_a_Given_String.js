@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/count-prefixes-of-a-given-string/description/ */
+
 const countPrefixes = function(words, s) {
     let count = 0;
 

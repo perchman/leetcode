@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/buy-two-chocolates/description/ */
+
 const buyChoco = function(prices, money) {
     let one = Infinity;
     let two = Infinity;

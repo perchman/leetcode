@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/ */
+
 const maximumValue = function(strs) {
     let maxValue = 0;
 

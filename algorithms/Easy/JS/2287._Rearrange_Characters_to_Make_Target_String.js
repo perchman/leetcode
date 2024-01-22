@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/ */
+
 const rearrangeCharacters = function(s, target) {
     const map1 = new Map(),
         map2 = new Map();

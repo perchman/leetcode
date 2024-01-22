@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/ */
+
 const canBeTypedWords = function(text, brokenLetters) {
     const brokenLettersSet = new Set(brokenLetters);
 

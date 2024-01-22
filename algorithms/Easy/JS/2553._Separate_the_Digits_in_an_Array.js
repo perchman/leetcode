@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/separate-the-digits-in-an-array/description/ */
+
 const separateDigits = function(nums) {
     const ans = [];
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/ */
+
 const sumCounts = function(nums) {
     let count = 0;
 

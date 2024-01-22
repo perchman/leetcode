@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/minimum-number-game/description/ */
+
 const numberGame = function(nums) {
     nums = nums.sort((a, b) => a - b);
 

@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/intersection-of-multiple-arrays/description/ */
+
 const intersection = function(nums) {
     let arr = nums[0];
 

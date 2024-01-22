@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/percentage-of-letter-in-string/description/ */
+
 const percentageLetter = function(s, letter) {
     let count = 0;
 

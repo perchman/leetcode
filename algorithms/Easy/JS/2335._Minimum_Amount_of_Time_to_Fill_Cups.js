@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/
+/** https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/description/ */
 
 const fillCups = function(amount) {
     const queue = new MaxPriorityQueue();

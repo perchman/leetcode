@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/counting-words-with-a-given-prefix/description/ */
+
 const prefixCount = function(words, pref) {
     let count = 0;
 

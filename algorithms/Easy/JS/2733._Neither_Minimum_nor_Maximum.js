@@ -1,3 +1,5 @@
+/** https://leetcode.com/problems/neither-minimum-nor-maximum/description/ */
+
 const findNonMinOrMax = function(nums) {
     if(nums.length<3) return -1;
 
